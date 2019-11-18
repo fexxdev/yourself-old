@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391934543607",
+    "firebase_url": "https://yourself-5b2f0.firebaseio.com",
+    "project_id": "yourself-5b2f0",
+    "storage_bucket": "yourself-5b2f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391934543607:android:36ea31ae9e040ba7",
+        "android_client_info": {
+          "package_name": "com.creativity.yourself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391934543607-dl04dupl4np4ef8gpp9so8ghafu7engd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBID1gEVF8-J-69zupSnIO0YU1TsYt09gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391934543607-dl04dupl4np4ef8gpp9so8ghafu7engd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">YourSelf</string>
+
+    <!-- String slide intro -->
+
+    <string name="titleSlide1">Benvenuto in YourSelf!</string>
+    <string name="descriptionSlide1">Conosci te stesso per poterti migliorare</string>
+
+    <string name="titleSlide2">Cosa vogliamo essere dipende da noi</string>
+    <string name="descriptionSlide2">Poniti un obiettivo e scala la montagna</string>
+
+    <string name="titleSlide3">Trova le giuste ispirazioni</string>
+    <string name="descriptionSlide3">Cosa alimenta la tua voglia di fare? il desiderio è il motore della vita</string>
+
+   <!-- <string name="titleSlide4">Sei al sicuro</string>
+    <string name="descriptionSlide4">Proteggiamo le tue informazioni e lasciamo a te il controllo</string> -->
+
+    <string name="titleSlide5">Buon Viaggio!</string>
+    <string name="descriptionSlide5">Iniziamo</string>
+
+    <!-- String login/singin -->
+
+    <string name="login">Accedi</string>
+    <string name="loginEmailHint">Email</string>
+    <string name="loginPasswordHint">Password</string>
+    <string name="gotoRegistration">Non hai un account?\nRegistrati</string>
+
+    <string name="registration">Registrati</string>
+    <string name="registrationEmailHint">Email</string>
+    <string name="registrationPasswordHint">Password</string>
+    <string name="gotoLogin">Hai già un account?\nAccedi</string>
+
+    <!-- String main -->
+
+    <string name="nav_home">Home</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_profilo">Profilo</string>
+
+
+
+
+</resources>
